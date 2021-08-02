@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zyingt
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on app developing
+- 👀 I’m interested in data analytics and AI
+- 🌱 I’m currently learning ML and cloud computing :)
+- 💞️ I’m looking to collaborate on app developing and hackathons!
 - 📫 How to reach me ...
 
 <!---
