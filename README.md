@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @zyingt
-- 👀 I’m interested in data analytics and AI
-- 🌱 I’m currently learning ML and cloud computing :)
-- 💞️ I’m looking to collaborate on app developing and hackathons!
-- 📫 How to reach me ...
+- 👀 I’m interested in data analytics and data science
+- 🌱 I’m currently learning more about machine learning through Kaggle projects (Ongoing: porto-seguro-safe-driver-prediction)
 
 <!---
 zyingt/zyingt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
